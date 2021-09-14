@@ -1,4 +1,4 @@
-<img src="https://github.com/theduckgina/theduckgina/blob/main/img/theduckGina.jpeg" alt="Hero image">
+<img src="https://github.com/theduckgina/theduckgina/blob/main/img/theduckGina-6.jpeg" alt="Hero image">
 
 I like experimenting with new technologies, building robots and exploring ML&AI. ✨
 
